@@ -1,0 +1,11 @@
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\obj\Debug\netcoreapp2.1\Camel.csprojAssemblyReference.cache
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\obj\Debug\netcoreapp2.1\Camel.csproj.CoreCompileInputs.cache
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\obj\Debug\netcoreapp2.1\Camel.AssemblyInfoInputs.cache
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\obj\Debug\netcoreapp2.1\Camel.AssemblyInfo.cs
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\bin\Debug\netcoreapp2.1\Camel.deps.json
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\bin\Debug\netcoreapp2.1\Camel.runtimeconfig.json
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\bin\Debug\netcoreapp2.1\Camel.runtimeconfig.dev.json
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\bin\Debug\netcoreapp2.1\Camel.dll
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\bin\Debug\netcoreapp2.1\Camel.pdb
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\obj\Debug\netcoreapp2.1\Camel.dll
+E:\Fall 19\AdvGame\Assignment2\Camel\Camel\obj\Debug\netcoreapp2.1\Camel.pdb
