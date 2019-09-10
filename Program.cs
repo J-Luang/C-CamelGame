@@ -4,8 +4,6 @@ namespace Camel
 {
     class Program
     {
-        //Adjust values
-        //Oasis
         static int narwhalExhaustion;
         static int distance;
         static int goal;
