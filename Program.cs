@@ -35,8 +35,8 @@ namespace Camel
             Console.WriteLine("\nWhat would you like to do?");
             Console.WriteLine("A.Drink");
             Console.WriteLine("B.Half Speed");
-            Console.WriteLine("C.Fully Speed");
-            Console.WriteLine("D.Maximum overdrive");
+            Console.WriteLine("C.Full Speed");
+            Console.WriteLine("D.Maximum Overdrive");
             Console.WriteLine("E.Rest");
             Console.WriteLine("F.Status");
             Console.WriteLine("Q.Quit");
@@ -87,7 +87,7 @@ namespace Camel
         {
             CheckGoal();
             CheckExhaustion();
-            CheckNativesDistance();
+            CheckSlimeDistance();
             CheckThirst();
         }
 
@@ -95,7 +95,7 @@ namespace Camel
         {
             if (narwhalExhaustion >= 8)
             {
-                Console.Write("your narwhal died. Thanks for playing!");
+                Console.Write("Your narwhal died. Thanks for playing!");
                 done = true;
             }
             else if (narwhalExhaustion >= 4 && distance < goal && slimeDistance < distance && userThirst < 5)
@@ -104,16 +104,16 @@ namespace Camel
             }
         }
 
-        private static void CheckNativesDistance()
+        private static void CheckSlimeDistance()
         {
             if (slimeDistance >= distance)
             {
-                Console.WriteLine("The natives have caught up to you and its over!");
+                Console.WriteLine("The slime has caught up to you and its over!");
                 done = true;
             }
             else if (slimeDistance >= distance - 10 && distance < goal && narwhalExhaustion < 8 && userThirst < 5)
             {
-                Console.WriteLine("The natives are getting close to you.");
+                Console.WriteLine("The slime is getting close to you.");
             }
         }
 
@@ -214,7 +214,7 @@ namespace Camel
 
         private static void CheckStatus()
         {
-            Console.WriteLine("Miles traveled: " + distance +
+            Console.WriteLine("Feet traveled: " + distance +
                 "\nThe enemy is behind you by " + slimeDistance + " feet.");
             CheckDrink();
         }

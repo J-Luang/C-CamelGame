@@ -688,7 +688,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shryuu\\.nuget\\packages\\": {},
+    "C:\\Users\\jesse.luangaphayvong\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -697,14 +697,14 @@
       "projectUniqueName": "E:\\Fall 19\\AdvGame\\Assignment2\\Camel\\Camel\\Camel.csproj",
       "projectName": "Camel",
       "projectPath": "E:\\Fall 19\\AdvGame\\Assignment2\\Camel\\Camel\\Camel.csproj",
-      "packagesPath": "C:\\Users\\Shryuu\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\jesse.luangaphayvong\\.nuget\\packages\\",
       "outputPath": "E:\\Fall 19\\AdvGame\\Assignment2\\Camel\\Camel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shryuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jesse.luangaphayvong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
